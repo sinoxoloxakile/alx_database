@@ -1,3 +1,3 @@
-mysql-u root -p
-    Enter password:*****
-mysql>SHOW DATABASE
+-- a script that lists all databases of your MySQL server.
+-- List all databases
+SHOW DATABASES;
